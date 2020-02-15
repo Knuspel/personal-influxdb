@@ -20,10 +20,10 @@ from influxdb.exceptions import InfluxDBClientError
 from trakt import Trakt
 from trakt.objects import Episode, Show, Movie
 
-TRAKT_CLIENT_ID = ''
-TRAKT_CLIENT_SECRET = ''
-TRAKT_OAUTH_CODE = ''
-TMDB_API_KEY = ''
+TRAKT_CLIENT_ID = 'd417325bbe4805bd629e6bdfe3b804d4bcf9a09b6621a45748087372ef362b38'
+TRAKT_CLIENT_SECRET = '572a69548e812f07ac2f407b41f6f2f6d26c535b7a1cfd203fabc10df7bc66c9'
+TRAKT_OAUTH_CODE = 'ecc10aa0'
+TMDB_API_KEY = '9f04f73508b90af4823fbf07f3f3bdb6'
 TMDB_IMAGE_BASE = 'https://image.tmdb.org/t/p/'
 INFLUXDB_HOST = 'localhost'
 INFLUXDB_PORT = 8086

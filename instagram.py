@@ -19,8 +19,8 @@ from influxdb import InfluxDBClient
 from influxdb.exceptions import InfluxDBClientError
 from instaloader import instaloader, Profile
 
-INSTAGRAM_PROFILE = ''
-MAX_POSTS = 10 #set to 0 to download all posts
+INSTAGRAM_PROFILE = 'knuspel'
+MAX_POSTS = 0 #set to 0 to download all posts
 INFLUXDB_HOST = 'localhost'
 INFLUXDB_PORT = 8086
 INFLUXDB_USERNAME = 'root'

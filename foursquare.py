@@ -18,7 +18,7 @@ from datetime import datetime, date, timedelta
 from influxdb import InfluxDBClient
 from influxdb.exceptions import InfluxDBClientError
 
-FOURSQUARE_ACCESS_TOKEN = ''
+FOURSQUARE_ACCESS_TOKEN = '0E0UE0LK3AZ5JW11YOV2ZDM3BERCXYQOVTLDV0HJY4LMC23X'
 INFLUXDB_HOST = 'localhost'
 INFLUXDB_PORT = 8086
 INFLUXDB_USERNAME = 'root'

@@ -19,9 +19,9 @@ from influxdb import InfluxDBClient
 from influxdb.exceptions import InfluxDBClientError
 from bs4 import BeautifulSoup
 
-STEAM_API_KEY = ''
-STEAM_ID = ''
-STEAM_USERNAME = ''
+STEAM_API_KEY = 'ABEDC093DF0E1C85B537B31A327ED02A'
+STEAM_ID = 'STEAM_0:1:31355326'
+STEAM_USERNAME = 'knuspel144'
 STEAM_LANGUAGE = 'en'
 INFLUXDB_HOST = 'localhost'
 INFLUXDB_PORT = 8086

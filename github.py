@@ -18,8 +18,8 @@ from datetime import datetime
 from influxdb import InfluxDBClient
 from influxdb.exceptions import InfluxDBClientError
 
-GITHUB_API_KEY = ''
-GITHUB_USERNAME = ''
+GITHUB_API_KEY = '599a71ff7846241b48a4c3d8210882eb6c1bfb61'
+GITHUB_USERNAME = 'Knuspel'
 INFLUXDB_HOST = 'localhost'
 INFLUXDB_PORT = 8086
 INFLUXDB_USERNAME = 'root'
