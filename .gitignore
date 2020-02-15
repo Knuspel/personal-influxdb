@@ -132,4 +132,4 @@ dmypy.json
 .trakt.json
 .fitbit-refreshtoken
 *.sqlite
-gihub.py
+github.py
